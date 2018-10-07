@@ -1,0 +1,14 @@
+{
+    "name": "atividade/aula",
+    "description": "atividade",
+    "type": "no",
+    "authors": [
+        {
+            "name": "mateus penha",
+            "email": "mateusbahia375@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    }
+}
